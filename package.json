@@ -1,0 +1,13 @@
+{
+   "name": "EDIPP",
+   "description": "Event-Driven Isolate Parallel Processing",
+   "main": "./package.js",
+   "version": "v0.1.0-alpha",
+   "engines": {
+      "node": ">=0.10.0"
+   },
+   "author": {
+      "name": "Orion Free",
+      "email": "orionstein@gmail.com"
+   }
+}
